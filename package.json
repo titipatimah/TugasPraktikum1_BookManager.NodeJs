@@ -1,0 +1,21 @@
+{
+  "name": "tugaspraktikum1_bookmanager.nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "book.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "babel-jest": "^29.7.0",
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0"
+  }
+}
